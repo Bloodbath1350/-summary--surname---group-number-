@@ -1,0 +1,17 @@
+function getSum(a, b) {
+  return a + b;
+}
+function getSmallestNumber(a, b) {
+  return Math.min(a, b);
+}
+function castBoolean(value) {
+  return Boolean(value);
+}
+function capitalize(str) {
+  return capitalize(str);
+}
+console.log(capitalize('Hexlet', 2));
+function countCapitalLetters() {}
+
+export {
+  getSum, getSmallestNumber, castBoolean, capitalize, countCapitalLetters};
